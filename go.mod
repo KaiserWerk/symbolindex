@@ -1,3 +1,3 @@
-module github.com/KaiserWerk/go-indexing-libraries/symbolindex
+module github.com/KaiserWerk/symbolindex
 
 go 1.23
